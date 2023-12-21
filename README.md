@@ -31,15 +31,19 @@ we can set status like Not started , In Progress ,Completed etc.
 
 - [React](https://reactjs.org/)
 
-- [Webpack](https://webpack.js.org/)
-
+- [React Router](https://reactrouter.com/en/main)
+- [axios](https://axios-http.com/docs/intro)
 
 ### Installing
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/Nazim8115/Todo_MERN.git
 $ cd project
+$ cd backend
+$ npm install
+$ cd..
+$ cd front-end
 $ npm install
 ```
 
