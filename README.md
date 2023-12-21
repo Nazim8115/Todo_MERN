@@ -21,15 +21,29 @@ we can set status like Not started , In Progress ,Completed etc.
 
 ## Getting Started
 
-### Dependencies
+### Languages and tools
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- [Node](https://nodejs.org/en/)
+
+- [Express](https://expressjs.com/)
+
+- [Mongoose](https://mongoosejs.com/)
+
+- [React](https://reactjs.org/)
+
+- [Webpack](https://webpack.js.org/)
+
 
 ### Installing
+Some basic Git commands are:
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ cd project
+$ npm install
+```
+
+
 
 ### Executing program
 
