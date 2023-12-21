@@ -32,12 +32,13 @@ we can set status like Not started , In Progress ,Completed etc.
 - [React](https://reactjs.org/)
 
 - [React Router](https://reactrouter.com/en/main)
+  
 - [axios](https://axios-http.com/docs/intro)
+  
 - [VS code](https://code.visualstudio.com/)
 
 ### Installing
 Some basic Git commands are:
-
 ```
 $ git clone https://github.com/Nazim8115/Todo_MERN.git
 $ cd project
@@ -51,7 +52,6 @@ $ npm install
 
 
 ### Executing program
-
 * How to run the program
 - cd backend
 - npm start
