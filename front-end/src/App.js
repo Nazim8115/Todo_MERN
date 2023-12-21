@@ -23,15 +23,20 @@ function App() {
     <Router>
       <Navbar token={token} />
       <Routes>
-        <Route path="/" element={<Register />} />
-        {/* <Route path="login" element={<Login setToken={setToken} />} /> */}
+        <Route
+          path="/"
+          element={token ? <Navigate to="/todos" /> : <Register />}
+        />
         <Route
           path="login"
           element={
             token ? <Navigate to="/todos" /> : <Login setToken={setToken} />
           }
         />
-        <Route path="todos" element={<Todo />} />
+        <Route
+          path="todos"
+          element={!token ? <Navigate to="/login" /> : <Todo />}
+        />
         <Route path="todos/:id/view" element={<ViewTodo />} />
       </Routes>
     </Router>

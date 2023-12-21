@@ -49,7 +49,7 @@ function Navbar({ token }) {
                   className="nav-link"
                   onClick={() => {
                     localStorage.removeItem("token");
-                    window.location.href = "/";
+                    window.location.href = "/login";
                   }}
                 >
                   Logout
