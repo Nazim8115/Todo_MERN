@@ -33,6 +33,7 @@ we can set status like Not started , In Progress ,Completed etc.
 
 - [React Router](https://reactrouter.com/en/main)
 - [axios](https://axios-http.com/docs/intro)
+- [VS code](https://code.visualstudio.com/)
 
 ### Installing
 Some basic Git commands are:
@@ -52,10 +53,12 @@ $ npm install
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+- cd backend
+- npm start
+- cd..
+- cd front-end
+- npm start
+
 
 ## Help
 
