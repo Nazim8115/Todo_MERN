@@ -5,7 +5,7 @@ we can set status like Not started , In Progress ,Completed etc.
 
 
 
-## Description
+## Description And Features
 #### In This app user will be getting features below.
 1- In this ToDo List App user should be register and logged in before use.
 2- User can Register with name, email id and password.
