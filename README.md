@@ -6,17 +6,16 @@ we can set status like Not started , In Progress ,Completed etc.
 
 
 ## Description
-
+#### In This app user will be getting features below.
 1- In this ToDo List App user should be register and logged in before use.
 2- User can Register with name, email id and password.
 3- Registerd User loged in with email and password .
-#### In This app user will be getting 4 features.
-1- Create (Add) new Task in the ToDo list app .
-2- See all tasks list that were added in the app .
-3- User can view single todo with description.
-4- User can edit (update) a particular todo like change status or something from todo.
-5- User can delete todo from the todos list.
-6- User can logout.😍
+4- Create (Add) new Task in the ToDo list app .
+5- See all tasks list that were added in the app .
+6- User can view single todo with description.
+7- User can edit (update) a particular todo like change status or something from todo.
+8- User can delete todo from the todos list.
+9- User can logout.😍
 
 
 
