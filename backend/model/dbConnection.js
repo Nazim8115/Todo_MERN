@@ -1,8 +1,8 @@
 import mongoose from "mongoose";
-
+import "dotenv/config";
 const connectDB = async () => {
   try {
-    await mongoose.connect("mongodb://127.0.0.1:27017/todoapp");
+    await mongoose.connect(process.env.db_url);
     console.log("Database connected successfully ");
   } catch (error) {
     console.error("Error in connecting to the database:", error);
