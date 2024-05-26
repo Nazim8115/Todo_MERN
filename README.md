@@ -71,8 +71,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. MOH NAZIM  
+ex. nazim.nn459@gmail.com
 
 ## Version History
 
